@@ -1,5 +1,5 @@
 # Airline Database
-Implementation of an Airplane database in MySQL with an HTML/PHP front-end.
+Implementation of an Airplane database in MySQL with a PHPmyAdmin front-end.
 
 # Problem Requirements
 - Airlines have names and a unique code (for example, Air Canada's code is AC).
