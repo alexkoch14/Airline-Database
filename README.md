@@ -1,5 +1,5 @@
 # Airline Database
-Implementation of an Airplane database in MySQL.
+Implementation of an Airplane database in MySQL with an HTML website.
 
 # Problem Requirements
 - Airlines have names and a unique code (for example, Air Canada's code is AC).
@@ -21,3 +21,9 @@ seats would be 100 and the company would be Boeing.
 - Each airplane is designed as one of the airplane types. Some airplane types are just prototypes and have no airplanes of that type built yet.
 - Each flight is assigned an airplane and it uses the same airplane for all it's flights but an airplane may be used by numerous flights. 
 - Not all airplanes are used on flights, some sit around as backup planes.
+
+# Project Replication
+1. Download XAMPP from the internet.
+2. Place the "airline" folder in your local XAMPP/htdocs folder.
+3. Import the database to MySQL using XAMPP.
+4. Run the program in your machine's browser.
